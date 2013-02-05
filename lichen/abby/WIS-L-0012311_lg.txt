@@ -1,0 +1,8 @@
+﻿AKFWS HERBARIUM ** FLORA of ALASKA
+Cladina	^ ^
+Location Adak Island, Aleutian Islands, Alaska
+Latitude 51°49'49.6"N Longitude 176° 41' 08.6" W Elevation 655 ft
+Habitat Vaccinium uliginosum-Empetrum nigrum alpine heath on upper mountain slope
+Quad. Map Adak (C-2), Alaska	coil. Date 6 Aug 2003
+Collector Stephen S. Talbot	# ADA008-26
+Det. John W. Thomson	December 2003

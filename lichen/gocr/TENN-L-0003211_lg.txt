@@ -1,0 +1,21 @@
+IFrl    _(___o___so  0_0  ____J  t  _ J9__o  _ _  _      _ 1_   __tl
+
+E_ Herbari_m Elihu HalI         ))
+Field Museum of Natural History
+
+o
+
+
+
+
+_        _O     O__    _
+Coll.    __      0 a
+_t           ,__DoO           o    O ,/8J_.
+
+t                   _                     t
+u,,ve,s,ty of Tennessee (TENN!
+i                  <barcode type="39" chars="16" code="*TENN-L-0003211*" crc="C" error="0.136" /><barcode type="39" chars="16" code="*TENN-L-0003211*" crc="C" error="0.136" />
+<barcode type="39" chars="12" code="N-L-0003211*" crc="B" error="0.122" /><barcode type="39" chars="12" code="N-L-0003211*" crc="B" error="0.122" />
+<barcode type="unknown" /><barcode type="unknown" />
+<barcode type="unknown" /><barcode type="unknown" />
+           , ,

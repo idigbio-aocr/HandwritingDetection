@@ -1,0 +1,66 @@
+NY01363011_lg.txt: Found Mixed Alphanumerics in Minnesota, Yellow Medicine Co: ca 5 mi S, 4.5 mi E Granite Falls. Upper Sioux Agency State Park. T115N R38W section 29 NE1/4 of SW1/4. 44.7350°N, 95.4567°W (determined by GPS; datum = WGS 84). Elevation 1010 ft.
+NY01363011_lg.txt: Found Bizarre Capitalization in The Ronald L. McGregor Herbarium (KANU) University of Kansas, Lawrence KS USA
+TENN-L-0003011_lg.txt: Found Mixed Alphanumerics in JAPAN. Hokkaido. Prov. Tokachi (-hKH): Lake-side of Nishi-Konuma 05<MS), Shikaoi-mura (MillW)* Kato-gun CM3K?$)-On soil with mosses; elevation about 900 m. June 26, 1979 Coll.: H. Kashiwadani (no. 15179)	Det.: H. Kashiwadani
+TENN-L-0003011_lg.txt: Found Caret in li|niVerSlty ^ TenneSS8e ^TENN^
+TENN-L-0003011_lg.txt: Found Bizarre Capitalization in li|niVerSlty ^ TenneSS8e ^TENN^
+NY01363111_lg.txt: Found Mixed Alphanumerics in Jefferson County: El Dorado Shore Preserve, end of Grand Jean Road off Co. Rd. 152, 1.3 mi W of NY 3, 43°49’N, 76°14’W; Thuja-Juniperus swamp along shore of Lake Ontario.
+NY01391511_lg.txt: Found Mixed Alphanumerics in Seminole County: Little Big Econlockhatchee State Forest, along Florida Trail from entrance on Co. Rd. 426, 3.3 mi NE of Co. Rd. 419 in Oviedo, 28°41’N,
+NY01391511_lg.txt: Found Mixed Alphanumerics in $1° 10’W; Sabal-Quercus virginiana-hardwoodswamp.
+NY01356611_lg.txt: Found Caret in Graham County: Nantahala Natibnal Forest, Cherohala Skyway [NC 143], Mudd Gap, 35°20’N, 84°025W, 1388 m; i^g^-dominated hardwood forest.
+NY01356611_lg.txt: Found Mixed Alphanumerics in Graham County: Nantahala Natibnal Forest, Cherohala Skyway [NC 143], Mudd Gap, 35°20’N, 84°025W, 1388 m; i^g^-dominated hardwood forest.
+WIS-L-0016611_lg.txt: Found Caret in Det, t Wilbur Peterson	16 Jan 197^TENN-L-0002211_lg.txt: Found Bizarre Capitalization in ﻿LICHiii'IS OF FLORIDA
+TENN-L-0002911_lg.txt: Found Mixed Alphanumerics in COLLECTED BY: A. J.SHARP No._
+TENN-L-0002711_lg.txt: Found Guillemets in June 3Q» 1936____No. 550
+NY01365711_lg.txt: Found Mixed Alphanumerics in ST. LAWRENCE COUNTY: Cranberry Lake Campground, Bear Mountain Trail, beech-maple-yellow birch, c. 1500-1600 ft. 22 September 1983.
+TENN-L-0000111_lg.txt: Found Mixed Alphanumerics in - Pate?3 March .1-963
+NY01357611_lg.txt: Found Mixed Alphanumerics in Glades County: Ortona Cemetery, along SR 78, 1 mi W of CR 78A, 26°49’N, 81°18’W; oak-palmetto scrub directly N of cemetery.
+WIS-L-0012811_lg.txt: Found Mixed Alphanumerics in Date 21 June 1969	Collector & No.c.E.Garton
+NY01365511_lg.txt: Found Mixed Alphanumerics in Collier County: Fakahatchee Strand State Preserve, 1.2 mi from N entrance on W.J. Janes Memorial Scenic Drive,
+NY01365511_lg.txt: Found Mixed Alphanumerics in 26°03'N, 81°26'W; open Taxodium swamp.
+NY01365611_lg.txt: Found Mixed Alphanumerics in Liberty County: Apalachicola National Forest, 0.2 mi E of Co. Rd. 379 on Forest Serv. Rd. 106, 3.1 mi NW of Sumatra; Taxodium dome N of road.
+TENN-L-0000611_lg.txt: Found Guillemets in JAMAICA» St. Andrew Parish, trail from Canchona Morce*s Gap, Uj800 ft* alte Jan. 11, 19&7 coll. Gary MortonTENN-L-0000611_lg.txt: Found Mixed Alphanumerics in JAMAICA» St. Andrew Parish, trail from Canchona Morce*s Gap, Uj800 ft* alte Jan. 11, 19&7 coll. Gary MortonNY01391211_lg.txt: Found Mixed Alphanumerics in Locality: Franklin County, Florida. USA.Little St. George Island, Cape St. George. 29035'N, 85°03’W. In stable backdunes and swales of barrier island.
+NY01391211_lg.txt: Found Mixed Alphanumerics in Determined by R.C. Harris 6/02
+NY01391711_lg.txt: Found Mixed Alphanumerics in Levy County: Black Point Swamp, along Co. Rd. 326 1.1 mi W of Co. Rd. 347, 29°13'N, 83°02'W; hardwood-Taxodium swamp forest.
+TENN-L-0003511_lg.txt: Found Guillemets in n» 181
+TENN-L-0003511_lg.txt: Found Mixed Alphanumerics in i nr 10 miles west of junction of Rt. 71 & 33 at Hall's Crossroads coii. H. N. Mozingo-Ait--
+NY01391311_lg.txt: Found Mixed Alphanumerics in UNITED STATES OF AMERICA. GEORGIA. EARLY COUNTY.: Williams Bluff Preserve, ~3 miles west of Cedar Springs, along tributary to the Chattahoochee River, Gordon Quad. - elev. 180 ft. - UTM 16 682819E 34521 89N- Lat. 31° 11' 22"N, Long. 85° 04’ 53"W - Bluffs and adjacent rich hardwood (Acer, Nyssa, Ilex) bottomlands with extensive seeps and beaver ponds. - On Nyssa.
+NY01391311_lg.txt: Found Mixed Alphanumerics in w/ Sean Q. Beeching & Malcolm Hodges _April 15,2007- 15.April.2007 - 15.IV.2007_
+TENN-L-0000311_lg.txt: Found Mixed Alphanumerics in ﻿HATTORI-TENNESSEE COOPERATIVE BRYOGEOGRAPHIC COLLECTIONS, 1964-66
+NY01365911_lg.txt: Found Caret in Wakulla County: Apalachicola National Forest, Bradwell Bay Wilderness, along Apalachicola Trail at jet with Forest Serv. Rd. 314, T.4S., R.4W., sec. 11, SW^s; swamp forest.
+NY01365911_lg.txt: Found Mixed Alphanumerics in Wakulla County: Apalachicola National Forest, Bradwell Bay Wilderness, along Apalachicola Trail at jet with Forest Serv. Rd. 314, T.4S., R.4W., sec. 11, SW^s; swamp forest.
+NY01365911_lg.txt: Found Bizarre Capitalization in NEW YORK BOTANlCAi riAoncjsj
+{"TENN-L-0002411_lg.txt"=>0,
+ "NY01363011_lg.txt"=>2,
+ "TENN-L-0003311_lg.txt"=>0,
+ "TENN-L-0003011_lg.txt"=>3,
+ "NY01363111_lg.txt"=>1,
+ "TENN-L-0001011_lg.txt"=>0,
+ "NY01075911_lg.txt"=>0,
+ "NY01391511_lg.txt"=>2,
+ "NY01391811_lg.txt"=>0,
+ "NY01356611_lg.txt"=>2,
+ "NY01076011_lg.txt"=>0,
+ "WIS-L-0016611_lg.txt"=>1,
+ "NY01391611_lg.txt"=>0,
+ "TENN-L-0002211_lg.txt"=>1,
+ "TENN-L-0002911_lg.txt"=>1,
+ "TENN-L-0002711_lg.txt"=>1,
+ "WIS-L-0015111_lg.txt"=>0,
+ "NY01365711_lg.txt"=>1,
+ "TENN-L-0000111_lg.txt"=>1,
+ "NY01357611_lg.txt"=>1,
+ "WIS-L-0012811_lg.txt"=>1,
+ "NY01357711_lg.txt"=>0,
+ "NY01365511_lg.txt"=>2,
+ "NY01365611_lg.txt"=>1,
+ "TENN-L-0000611_lg.txt"=>2,
+ "NY01391211_lg.txt"=>2,
+ "NY01391711_lg.txt"=>1,
+ "TENN-L-0000711_lg.txt"=>0,
+ "TENN-L-0003511_lg.txt"=>2,
+ "NY01363411_lg.txt"=>0,
+ "TENN-L-0002011_lg.txt"=>0,
+ "NY01391311_lg.txt"=>2,
+ "TENN-L-0000311_lg.txt"=>1,
+ "NY01365911_lg.txt"=>3}
+
