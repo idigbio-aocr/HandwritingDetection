@@ -14,7 +14,7 @@ filenames.each do |fn|
   print "\n\nWhat kind of file is this\n(1=typed,2=handwritten,3=unsure)\n> "
   $stdout.flush
   value = $stdin.gets.chomp
-  print "\nYou said #{value}!\n"
+  print "\nYou said #{value}!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
   outfile.print("\"#{fn}\",#{value}\n")  
 end
 

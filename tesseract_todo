@@ -1,0 +1,18 @@
+WIS-L-0012211_lg.txt,2
+NY01365511_lg.txt,1
+NY01357311_lg.txt,2
+
+Notes: Tesseract seems to produce a lot of strings that look 
+suspiciously like bar codes:
+
+ 1n1a11111111111w«11111
+ llﬂlllﬂlll II I III II II
+also see fun OCR:
+ II IN WIN)! H H! H H
+
+
+
+Compare the false positives for handwriting in Tesseract vs. the false 
+negatives for handwriting with ABBYY
+
+

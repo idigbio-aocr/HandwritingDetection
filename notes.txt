@@ -1,0 +1,15 @@
+Human (eyeball) handwriting detection
+
+Abby output:
+41 correct positives
+34 correct negatives
+5 false positives
+16 false negatives
+
+Tesseract output:
+60 correct positives
+21 correct negatives
+20 false positives
+1 false negative
+
+
