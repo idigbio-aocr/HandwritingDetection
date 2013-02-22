@@ -1,0 +1,175 @@
+/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01075911_lg.txt: Found Double Slashes and Pipes in  C.   NEWYORKBOTAN|Ci|iGI|\Fl|Di|N
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01075911_lg.txt: Found Mixed Alphanumerics in  C.   NEWYORKBOTAN|Ci|iGI|\Fl|Di|N
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01075911_lg.txt: Found Five Non-Alphanumerics in ||11||||l| |||
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01075911_lg.txt: Found Five Non-Alphanumerics in                                                         
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01075911_lg.txt: Found Five Non-Alphanumerics in                     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01356611_lg.txt: Found Mixed Alphanumerics in Cherohala Skyway [NC 143], Mudd Gap, 35°20’N,
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01356611_lg.txt: Found Mixed Alphanumerics in 84°O2’W, 1388 m; Fagus-dominated hardwood forest.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01356611_lg.txt: Found Guillemets in 1*]  Rt   1n1a11111111111w«11111
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357611_lg.txt: Found Five Non-Alphanumerics in      
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357611_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357611_lg.txt: Found Five Non-Alphanumerics in       
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357611_lg.txt: Found Mixed Alphanumerics in W of CR 78A, 26°49’N, 81°18’W; oak-palmetto
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357611_lg.txt: Found Five Non-Alphanumerics in W”“““ R‘ 3”“ 34°“ tllllllllllllllll?llllllllllflllfllllll
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Five Non-Alphanumerics in        
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Five Non-Alphanumerics in       
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Mixed Alphanumerics in Apa1ach1'co1a Nat1‘ona1 Forest. 4 May 1990.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Five Non-Alphanumerics in -14...; . ‘
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Four Dots in .—5<~n;~g»~:-....¢.,,,.,_vggpn-cg-w-pvgszge-=a;zvr—-:».~ -~-_~———-.o_.-p _....g.._‘.. — ~
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Five Non-Alphanumerics in .—5<~n;~g»~:-....¢.,,,.,_vggpn-cg-w-pvgszge-=a;zvr—-:».~ -~-_~———-.o_.-p _....g.._‘.. — ~
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Guillemets in .—5<~n;~g»~:-....¢.,,,.,_vggpn-cg-w-pvgszge-=a;zvr—-:».~ -~-_~———-.o_.-p _....g.._‘.. — ~
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Mixed Alphanumerics in .—5<~n;~g»~:-....¢.,,,.,_vggpn-cg-w-pvgszge-=a;zvr—-:».~ -~-_~———-.o_.-p _....g.._‘.. — ~
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01357711_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01363011_lg.txt: Found Five Non-Alphanumerics in SW‘/.. 44.7350°N, 95.4567°W (determined by GPS; datum = WGS
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01363011_lg.txt: Found Mixed Alphanumerics in SW‘/.. 44.7350°N, 95.4567°W (determined by GPS; datum = WGS
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01363011_lg.txt: Found Bizarre Capitalization in The Ronald L. McGregor Herbarium (KANU)
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01363111_lg.txt: Found Mixed Alphanumerics in 3, 43°49’N, 76°14’W; Tkujmjunipems swamp along
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01363411_lg.txt: Found Mixed Alphanumerics in llﬂlllﬂlll II I III II II
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01363411_lg.txt: Found Five Non-Alphanumerics in                                               
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365511_lg.txt: Found Mixed Alphanumerics in kg 26°O3'N, 81°26'w; open Taxodium
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365511_lg.txt: Found Five Non-Alphanumerics in                                                         
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365611_lg.txt: Found Five Non-Alphanumerics in                                                                                          
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365611_lg.txt: Found Mixed Alphanumerics in COLLECTED“ w1'111'am R. Buck 17933
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365711_lg.txt: Found Five Non-Alphanumerics in                                                                            
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365711_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365711_lg.txt: Found Five Non-Alphanumerics in      
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365711_lg.txt: Found Mixed Alphanumerics in Bear Mountain Trail, beech—maple—yellow birch,
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365911_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365911_lg.txt: Found Mixed Alphanumerics in Serv. Rd. 314, T.4S., R.4w., sec. 11, E
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01365911_lg.txt: Found Five Non-Alphanumerics in                                     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391211_lg.txt: Found Mixed Alphanumerics in L;(~m;Ng or CAPIZ  GI-I()R(H{
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391211_lg.txt: Found Mixed Alphanumerics in Locality: Franklin County, Florida. USA.Litt|e St. George
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391211_lg.txt: Found Mixed Alphanumerics in Island. Cape St. George. 29°35'N, 85°03'W. In stable
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391211_lg.txt: Found Mixed Alphanumerics in Determined by R.C. Harris 6/02
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391211_lg.txt: Found Five Non-Alphanumerics in                                               
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Five Non-Alphanumerics in       
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Mixed Alphanumerics in 6828l9E 3452l89N~ Lat. 3l° ll‘ 22"N, Long. 85° 04‘ 53"W ~ Bluffs and
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Guillemets in and beaver ponds. « On /\/yssa.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Double Slashes and Pipes in and beaver ponds. « On /\/yssa.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Mixed Alphanumerics in A_pril 15,2007 — l5.April.2007 — l5.lV.2007
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Five Non-Alphanumerics in        
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Five Non-Alphanumerics in        
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391311_lg.txt: Found Five Non-Alphanumerics in                                                                        
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391511_lg.txt: Found Mixed Alphanumerics in 426, 3.3 mi NE of Co. Rd. 419 in Oviedo, 28°41 N,
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391511_lg.txt: Found Bizarre Capitalization in 81° 10’W; SaI7al—Quercus virginianwhardwood swamp.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391511_lg.txt: Found Mixed Alphanumerics in 81° 10’W; SaI7al—Quercus virginianwhardwood swamp.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391511_lg.txt: Found Mixed Alphanumerics in Richard C,  W 1111|l1|11l||11111111ll1l1l1l1|l111111
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391611_lg.txt: Found Five Non-Alphanumerics in                                                                                   
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391711_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391711_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391711_lg.txt: Found Mixed Alphanumerics in Rd. 326 1.1 mi N of Co. Rd. 347, 29°13'N,
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391711_lg.txt: Found Mixed Alphanumerics in 83°02'W; hardw0od—Taxodium swamp forest.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391711_lg.txt: Found Five Non-Alphanumerics in                                                                             
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/NY01391811_lg.txt: Found Five Non-Alphanumerics in                                                                   
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000111_lg.txt: Found Five Non-Alphanumerics in Alt. » ‘
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000111_lg.txt: Found Guillemets in Alt. » ‘
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000111_lg.txt: Found Five Non-Alphanumerics in Det. ‘>—:an]ga7_~a gem Date“ ,,- , "ox;
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000111_lg.txt: Found Mixed Alphanumerics in Det. ‘>—:an]ga7_~a gem Date“ ,,- , "ox;
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000111_lg.txt: Found Four Dots in ./..... u.......,..._r.L\.J 
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000111_lg.txt: Found Five Non-Alphanumerics in ./..... u.......,..._r.L\.J 
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000311_lg.txt: Found Five Non-Alphanumerics in \\\\\\\\\‘{\\i&\{\\i\'\§\&\“\’\\\i\i\W
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000311_lg.txt: Found Five Non-Alphanumerics in \\\\\\\\\\\\\\\\W\\\\\\\\\\\\\\\WW
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000611_lg.txt: Found Five Non-Alphanumerics in TENN-L-[]DE|l.'J|=].].
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000611_lg.txt: Found Mixed Alphanumerics in TENN-L-[]DE|l.'J|=].].
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000711_lg.txt: Found Five Non-Alphanumerics in ("‘——-' j
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000711_lg.txt: Found Bizarre Capitalization in Hl\PlHVll!lWll(l|lHMl|H1|lH1|lH1|lHH| INHIHH1
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000711_lg.txt: Found Mixed Alphanumerics in Hl\PlHVll!lWll(l|lHMl|H1|lH1|lH1|lHH| INHIHH1
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000711_lg.txt: Found Five Non-Alphanumerics in                        
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000711_lg.txt: Found Five Non-Alphanumerics in ?   
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000811_lg.txt: Found Five Non-Alphanumerics in 1lllmllllllN\|!|\K|\|lH||\|Hlll\|l\l||\\\||\\\||Nl|\|\l|llW||\WIIN
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000811_lg.txt: Found Double Slashes and Pipes in 1lllmllllllN\|!|\K|\|lH||\|Hlll\|l\l||\\\||\\\||Nl|\|\l|llW||\WIIN
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0000811_lg.txt: Found Mixed Alphanumerics in 1lllmllllllN\|!|\K|\|lH||\|Hlll\|l\l||\\\||\\\||Nl|\|\l|llW||\WIIN
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001011_lg.txt: Found Five Non-Alphanumerics in       
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Five Non-Alphanumerics in M UL - S BLL F L 0 RA 0 F  r’  ~ . .L A 
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Double Slashes and Pipes in  mes” HIIINIHI} \|flU|\llVIIJIUIHIIIHIIWIIUIIWW
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Bizarre Capitalization in  mes” HIIINIHI} \|flU|\llVIIJIUIHIIIHIIWIIUIIWW
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Five Non-Alphanumerics in                    
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Guillemets in «s b t t
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Five Non-Alphanumerics in U S "1 um L%1?$3v6JI_‘ pa'am:::.3;¢WfT?s;f' mT§'~£7!‘f[':—"“—
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Bizarre Capitalization in U S "1 um L%1?$3v6JI_‘ pa'am:::.3;¢WfT?s;f' mT§'~£7!‘f[':—"“—
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Mixed Alphanumerics in U S "1 um L%1?$3v6JI_‘ pa'am:::.3;¢WfT?s;f' mT§'~£7!‘f[':—"“—
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Five Non-Alphanumerics in L.,c_ E'1®rm.“{‘ ffatwha ’~33:*€~.mk and E*";‘:..r=“£;&1 i°»5,‘v'ar=
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Isolated Euro Sign in L.,c_ E'1®rm.“{‘ ffatwha ’~33:*€~.mk and E*";‘:..r=“£;&1 i°»5,‘v'ar=
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Anomalous Pound Sign in L.,c_ E'1®rm.“{‘ ffatwha ’~33:*€~.mk and E*";‘:..r=“£;&1 i°»5,‘v'ar=
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Guillemets in L.,c_ E'1®rm.“{‘ ffatwha ’~33:*€~.mk and E*";‘:..r=“£;&1 i°»5,‘v'ar=
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Mixed Alphanumerics in L.,c_ E'1®rm.“{‘ ffatwha ’~33:*€~.mk and E*";‘:..r=“£;&1 i°»5,‘v'ar=
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Five Non-Alphanumerics in Coll. fig? »..W3.é1I“E_' An
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Guillemets in Coll. fig? »..W3.é1I“E_' An
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001211_lg.txt: Found Bizarre Capitalization in Det. DaB 
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001511_lg.txt: Found Five Non-Alphanumerics in NN) ‘-
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001511_lg.txt: Found Five Non-Alphanumerics in       
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001611_lg.txt: Found Five Non-Alphanumerics in HATTQF?l—TE\‘».:QC~‘-'7 «A7,: '*"ERATl\/E
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001611_lg.txt: Found Guillemets in HATTQF?l—TE\‘».:QC~‘-'7 «A7,: '*"ERATl\/E
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001611_lg.txt: Found Double Slashes and Pipes in HATTQF?l—TE\‘».:QC~‘-'7 «A7,: '*"ERATl\/E
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001611_lg.txt: Found Five Non-Alphanumerics in BR‘r’OGE©GF?A9H1C C ”, .__E‘:T't;7NS. 1964-68
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001611_lg.txt: Found Mixed Alphanumerics in BR‘r’OGE©GF?A9H1C C ”, .__E‘:T't;7NS. 1964-68
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001811_lg.txt: Found Five Non-Alphanumerics in (W. fa“; A -‘ 
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001811_lg.txt: Found Four Dots in ~x.:3x....$§\;-, M _
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001811_lg.txt: Found Five Non-Alphanumerics in ~x.:3x....$§\;-, M _
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001811_lg.txt: Found Mixed Alphanumerics in Co.Se1z:Ler
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001811_lg.txt: Found Five Non-Alphanumerics in A  Brushy *‘~**>- \\\\\\\\\\\$\\\\\\\\$\\\\\\\l\%i\\\\
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001811_lg.txt: Found Five Non-Alphanumerics in Universny o Tennesse (TENN) ——
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0001811_lg.txt: Found Five Non-Alphanumerics in W\\%\\\\\\\i\\\\\\\\\$\$\\\W\\\\\\
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002011_lg.txt: Found Mixed Alphanumerics in No. 502 LICHENS OF MICE-IIGE4‘I
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002211_lg.txt: Found Guillemets in C]_"'d0nj_ '1‘ _- - W »
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002211_lg.txt: Found Five Non-Alphanumerics in C4. W_”-_‘:Z €VcLf1‘S’~J:;]; deg Avbayes
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002211_lg.txt: Found Bizarre Capitalization in C4. W_”-_‘:Z €VcLf1‘S’~J:;]; deg Avbayes
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002211_lg.txt: Found Five Non-Alphanumerics in _L_m®\\lW\L\\\\\U\N\\\\
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002211_lg.txt: Found Mixed Alphanumerics in _L_m®\\lW\L\\\\\U\N\\\\
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002211_lg.txt: Found Five Non-Alphanumerics in ﬁi\\”\\e\\{\i\T
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002211_lg.txt: Found Five Non-Alphanumerics in x\\\\\\\\‘{\\i\i\igE{§iijﬁgixi\\i\
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002211_lg.txt: Found Mixed Alphanumerics in x\\\\\\\\‘{\\i\i\igE{§iijﬁgixi\\i\
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002411_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002411_lg.txt: Found Five Non-Alphanumerics in ‘ »: .. 
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002411_lg.txt: Found Guillemets in ‘ »: .. 
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002411_lg.txt: Found Five Non-Alphanumerics in ‘ ‘ .— W ~ . 1;: .,
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002411_lg.txt: Found Mixed Alphanumerics in 1 ,_??__¢__,_ __ ,,
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002411_lg.txt: Found Five Non-Alphanumerics in ¢ smm\\\\\\\»wWwmsmswwmumn\\a
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002411_lg.txt: Found Guillemets in ¢ smm\\\\\\\»wWwmsmswwmumn\\a
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002611_lg.txt: Found Five Non-Alphanumerics in U>::—.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002611_lg.txt: Found Five Non-Alphanumerics in _g——_;~_'—*—
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002611_lg.txt: Found Five Non-Alphanumerics in \\\\\\S\
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002611_lg.txt: Found Five Non-Alphanumerics in High an 2 Ar, Cells 1.): o, _‘:l\g*;~‘:c .:.e 0
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002611_lg.txt: Found Five Non-Alphanumerics in Oct” 3O'$Z. 1?J“:\I§3i»§‘3‘L1K‘:‘ 8;, E‘ ‘   17?‘
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002611_lg.txt: Found Guillemets in Oct” 3O'$Z. 1?J“:\I§3i»§‘3‘L1K‘:‘ 8;, E‘ ‘   17?‘
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002611_lg.txt: Found Mixed Alphanumerics in Oct” 3O'$Z. 1?J“:\I§3i»§‘3‘L1K‘:‘ 8;, E‘ ‘   17?‘
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002611_lg.txt: Found Five Non-Alphanumerics in ShaI‘P9 '° '
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002711_lg.txt: Found Mixed Alphanumerics in Jun§_3Q4.l93§-,m@l35Q‘_L
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002711_lg.txt: Found Bizarre Capitalization in Name,Qlﬁ QnG 18.11. B_  )
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002711_lg.txt: Found Mixed Alphanumerics in Name,Qlﬁ QnG 18.11. B_  )
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002711_lg.txt: Found Double Slashes and Pipes in ll|l|\l|H|l$
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002711_lg.txt: Found Mixed Alphanumerics in ll|l|\l|H|l$
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002711_lg.txt: Found Five Non-Alphanumerics in      
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002711_lg.txt: Found Mixed Alphanumerics in 3 m\m\\” imixlxtiiixwlmxiiﬂﬁjxﬂll1
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002711_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0002811_lg.txt: Found Anomalous Pound Sign in £UW8NM
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003011_lg.txt: Found Mixed Alphanumerics in Konuma (E5/JVQE), Shikaoi-rnura (ﬁigﬁ), Kato-gun (WEEK).
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003311_lg.txt: Found Five Non-Alphanumerics in -.. .. :_ﬁ'1':_.._:__.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003311_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003311_lg.txt: Found Mixed Alphanumerics in TENN—L-IJUII-131.].
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003411_lg.txt: Found Guillemets in Mylxjxi»lxwrﬁjxijwxmwwxv
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003411_lg.txt: Found Mixed Alphanumerics in Mylxjxi»lxwrﬁjxijwxmwwxv
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003511_lg.txt: Found Five Non-Alphanumerics in No.  .
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003511_lg.txt: Found Five Non-Alphanumerics in TENN-L-E|UD35].];
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003511_lg.txt: Found Mixed Alphanumerics in TENN-L-E|UD35].];
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003511_lg.txt: Found Mixed Alphanumerics in Loc. LQ milesL_1LesE1: Q1‘ jnnntiqnqf  11.85.33.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003511_lg.txt: Found Anomalous Pound Sign in Coll. £~_m  Alt.
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/TENN-L-0003511_lg.txt: Found Mixed Alphanumerics in Irllnwulliilﬂimﬁhmlﬂﬂ(mumumuunlmlmlmwmmum A
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0012811_lg.txt: Found Mixed Alphanumerics in D91-Bv P.Y.wong Nov. 1975 N0.ofRe-plicates 5
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0014511_lg.txt: Found Mixed Alphanumerics in N.S.F. Fund G.B.2702 \
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0014511_lg.txt: Found Mixed Alphanumerics in Lat. 65°29'N Long. 145°29'w
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0014811_lg.txt: Found Guillemets in dot. H.HER’.l‘iL, lliinchon, Q»
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0014811_lg.txt: Found Mixed Alphanumerics in dot. H.HER’.l‘iL, lliinchon, Q»
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0014811_lg.txt: Found Mixed Alphanumerics in Afpofgg cc?m:1?11eniIg?ge
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0014811_lg.txt: Found Guillemets in 63°40'N, 127°52'w , K » A
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0014811_lg.txt: Found Mixed Alphanumerics in 63°40'N, 127°52'w , K » A
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0014811_lg.txt: Found Five Non-Alphanumerics in July 8, 1971 3 ‘- - -<T_‘  "
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0015111_lg.txt: Found Five Non-Alphanumerics in     
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0015111_lg.txt: Found Five Non-Alphanumerics in        
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0016611_lg.txt: Found Five Non-Alphanumerics in LE'lHAPC[A VULPD-IA (I...) Hue. }9»~Y\‘t‘>7»(
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0016611_lg.txt: Found Guillemets in LE'lHAPC[A VULPD-IA (I...) Hue. }9»~Y\‘t‘>7»(
+!/home/benwbrum/dev/volunteer/idigbio/aocr/HandwritingDetection/lichen/tesseract/WIS-L-0016611_lg.txt: Found Mixed Alphanumerics in LE'lHAPC[A VULPD-IA (I...) Hue. }9»~Y\‘t‘>7»(
+!

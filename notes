@@ -1,0 +1,31 @@
+Thresholds:
+more than 1 line of gibberish in terse file, more than 20% of noisy file == positive
+8 of 60 false negatives
+10 of 45 false positives
+
+
+more than 0 lines of gibberish in terse file, more than 20% of noisy file
+4 of 60 false negatives
+13 of 45 false positives
+
+
+
+Just terse files
+10 of 45 false negatives
+12 of 60 false positives
+wait -- that's wrong
+12 of 60 false negatives
+10 of 45 false positives
+
+
+
+Just noisy files
+8 of 45 false positives
+18 of 60 false negatives 
+(threshold at 20%)
+
+
+Set the threshold at 10%
+14 of 45 false positives
+5 of 60 false negatives
+
